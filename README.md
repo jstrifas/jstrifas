@@ -23,7 +23,7 @@ That means every project here started with a question: can we solve this faster,
 
   LotPrice answers one question: is this car priced right, and if not, what should I do? It shows a recommended price backed by real comparable sales from nearby dealerships, a plain-language AI explanation of exactly why, and how long the car should take to sell. No charts, no dashboards, no jargon. One number, one action.
 
-  Demoed live in a final round interview with a CPO and CTO of a leading dealership SaaS platform. CTO reaction: "This is exactly how we already think about dealer inventory health."
+  Demoed live for a CPO and CTO of a leading dealership SaaS platform. CTO reaction: "This is exactly how we already think about dealer inventory health."
 
   Built with Next.js 14, TypeScript, Tailwind CSS, and the Anthropic Claude API.
 
