@@ -39,13 +39,69 @@ That means every project here started with a question: can we solve this faster,
 
 ---
 
-- **Mission Control** — Cloud cost optimization platform, 0 to 1 &nbsp; [Case Study](https://github.com/jstrifas/Mission-Control) &nbsp; [Full Story](https://johnstrifas.com/work)
+# Mission Control
 
-  AWS managed services customers had no way to see where they stood on their cloud spend, no proactive recommendations, and no strategic value beyond ticket resolution. Churn was running at 8% and accelerating.
+> Cloud cost optimization platform — built 0 to 1 at Mission Cloud
 
-  I founded the PM function at Mission Cloud and built Mission Control from zero: a cloud cost optimization SaaS that turned a reactive ticketing tool into a proactive intelligence platform. Real-time health scores, cost benchmarks against the AWS Well-Architected Framework, and a two-way recommendation engine that surfaced savings before customers had to ask.
+[![Full Case Study](https://img.shields.io/badge/Full_Case_Study-0A0A0A?style=flat-square)](https://johnstrifas.com/work)
+[![AWS Marketplace](https://img.shields.io/badge/Launched_on-AWS_Marketplace-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/marketplace/pp/prodview-sgbdaskw2byye?sr=0-20&ref_=beagle&applicationId=AWSMPContessa)
 
-  Results: 22% average reduction in AWS spend per customer, 92% CSAT, 80% retention of at-risk accounts, full reversal of the 8% churn trend. Launched on AWS Marketplace. Demoed at AWS re:Invent.
+---
+
+## The Problem
+
+Mission Cloud's customers were paying for AWS managed services but getting a reactive relationship: submit a ticket, wait for a response. There was no visibility into where their cloud spend was going, no proactive recommendations, and no way to know whether they were getting value from the relationship.
+
+The result was 8% annual churn — customers churning not because the support was bad, but because the product gave them no reason to stay beyond what they could get from a cheaper alternative.
+
+---
+
+## The Product
+
+I founded the PM function at Mission Cloud and built Mission Control from zero: a cloud cost optimization SaaS that transformed the customer relationship from reactive to proactive.
+
+**Mission Cloud Score**
+A composite health score for each customer's AWS environment, benchmarked against the AWS Well-Architected Framework across cost, performance, reliability, and security. Customers could see exactly where they stood and what to do about it — without waiting for a support ticket to be resolved.
+
+**Two-Way Recommendation Engine**
+A prioritized list of cost savings opportunities surfaced automatically from each customer's AWS usage data. Customers could see specific recommendations — right-size this instance, move this workload to Reserved Instances, eliminate this unused resource — with projected savings attached to each one.
+
+**Cloud Health Dashboard**
+Real-time visibility into AWS spend, usage trends, and optimization progress across the customer's full environment. Built to be understood by a CTO or VP of Engineering in under two minutes, not just a cloud engineer.
+
+---
+
+## The Results
+
+| Metric | Outcome |
+|---|---|
+| AWS cost reduction | 22% average per customer |
+| Annual savings per customer | ~$100,000 |
+| Customer satisfaction | 92% CSAT |
+| At-risk account retention | 80% |
+| Churn trend | Reversed from 8% to net positive |
+| Weekly active users | 342% increase post-launch |
+
+---
+
+## What I Owned
+
+- Founded the PM function — first PM at Mission Cloud
+- Defined the product strategy and roadmap from zero
+- Led all customer discovery: 50+ customer interviews per quarter
+- Partnered with engineering on architecture decisions and sprint planning
+- Launched Mission Control on AWS Marketplace
+- Demoed at AWS re:Invent
+- Established Agile process standards that drove a 25% improvement in team delivery timelines
+
+---
+
+## Why No Code
+
+Mission Control was enterprise SaaS built by a team of engineers I partnered with as the founding PM. The intellectual property belongs to Mission Cloud (now part of the AWS Partner Network ecosystem).
+
+What I can show: the full product story, screenshots, and case study at [johnstrifas.com/work](https://johnstrifas.com/work).
+
 
 ---
 
