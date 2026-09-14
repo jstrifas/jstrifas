@@ -1,5 +1,6 @@
-John Strifas
-A PM who builds to prove the point, not just pitch it.
+#John Strifas
+
+*A PM who builds to prove the point, not just pitch it.*
 ![LinkedIn](https://www.linkedin.com/in/jstrifas/)
 ![Portfolio](https://johnstrifas.com/)
 ---
