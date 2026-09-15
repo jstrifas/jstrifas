@@ -50,6 +50,15 @@ That means every project here started with a question: can we solve this faster,
 
   No code to show — this was enterprise SaaS built with a team of engineers I partnered with as the founding PM. Screenshots and the full product story live in the case study above.
 
+- **Amadeus Hotel Loyalty Portal** — Guest loyalty and engagement platform, built 0 to 1 &nbsp; [Full Story](https://johnstrifas.com/work)
+
+  Hotel brands had no scalable way to drive repeat bookings or personalize guest engagement across properties. Without a loyalty layer integrated into the booking and guest management system, retention was transactional and cross-brand engagement was essentially zero.
+
+  I led the 0→1 development and launch of Amadeus's hotel loyalty portal — a global platform integrated directly with hotel booking systems that gave hotel brands the ability to run personalized loyalty programs, targeted marketing campaigns, and cross-brand engagement at scale. Alongside the loyalty portal I led a $30 million phased UX overhaul of the Guest Management platform, rebuilding the core system hotel operators used to manage guest relationships end to end.
+
+  Results: 22% increase in post-launch user signups, customer retention rates rising from 74% to 89%, and a 41% increase in email open rates following the rollout of the new email marketing tool. Adopted by 400-plus hotel groups globally and generating $2 million in revenue in its first year — launched during COVID when every hospitality technology decision carried real financial stakes.
+
+  No public code — this was enterprise hospitality SaaS built with a distributed product and engineering team across three years.
 ---
 
 ## 🧩 Side Quests
