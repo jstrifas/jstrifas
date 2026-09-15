@@ -38,6 +38,7 @@ That means every project here started with a question: can we solve this faster,
   Built with Streamlit, Python, and the Anthropic Claude API.
 
 ---
+## 🏢 Products Shipped to Market
 
 - **Mission Control** — Cloud cost optimization platform, built 0 to 1 &nbsp; [![Case Study](https://img.shields.io/badge/Case_Study-1B3252?style=flat-square)](https://github.com/jstrifas/Mission-Control/blob/main/README.md) &nbsp; [Full Story](https://johnstrifas.com/work)
 
