@@ -50,7 +50,7 @@ That means every project here started with a question: can we solve this faster,
 
   No code to show — this was enterprise SaaS built with a team of engineers I partnered with as the founding PM. Screenshots and the full product story live in the case study above.
 
-- **Amadeus Hotel Loyalty Portal** — Guest loyalty and engagement platform, built 0 to 1 &nbsp; [Full Story](https://johnstrifas.com/work)
+- **Amadeus Hotel Loyalty Portal** — Guest loyalty and engagement platform, built 0 to 1 &nbsp; [Full Story](https://johnstrifas.com)
 
   Hotel brands had no scalable way to drive repeat bookings or personalize guest engagement across properties. Without a loyalty layer integrated into the booking and guest management system, retention was transactional and cross-brand engagement was essentially zero.
 
