@@ -17,6 +17,17 @@ That means every project here started with a question: can we solve this faster,
 
 ## 🚀 Featured Projects
 
+- **TelemetrySpend**- Observability cost calculator with tail-risk visibility 🟢 [![Live Demo](https://img.shields.io/badge/Live_Demo-0E7C61?style=flat-square)](https://telemetryspend-git-main-jstrifa-bits-projects.vercel.app/) &nbsp; [Source](https://telemetryspend-git-main-jstrifa-bits-projects.vercel.app/)
+
+Every observability vendor has a cost calculator. Every one of them models "typical" bills. None of them model the tail risk — the "what if we ship this tag without thinking" number that motivates the scoping decision. Platform engineers add user_id to a metric on a Tuesday, and by Friday they've explained a $50K bill spike to their CFO. The cost isn't the mistake. The lack of visibility before the mistake is.
+
+TelemetrySpend answers one question: what's the difference between what your observability bill could be if this cardinality choice goes wrong, versus what it would be if you got it right? Every high-cardinality tag surfaces three scenarios side by side — Uncapped, Scoped, Bounded — and the delta between them is the risk exposure a platform engineer needs to justify the scoping work internally. On a default profile with user_id across 10,000 users, the tool shows a $474,952/mo delta between disciplined and undisciplined cardinality. That number is the point.
+
+The architecture has two surfaces: a Next.js web app for direct exploration, and a stdio MCP server that exposes the same cost engine as tools any AI assistant can call inline. A developer in Cursor or Claude Desktop can ask "what happens to my Datadog bill if I add request_id as a tag?" and get a real answer without context-switching to a dashboard. The insight the tool surfaces — that Datadog and AWS CloudWatch cross over at ~1.6M metrics, a structural property of their pricing rather than a workload artifact — makes vendor choice a discipline question, not a volume question.
+
+Built with Next.js 14, TypeScript, Tailwind CSS, Recharts, and the Anthropic MCP SDK.
+
+
 - **LotPrice** — AI pricing tool for independent car dealers &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-0E7C61?style=flat-square)](https://vehicle-inventory-price-tool.vercel.app/) &nbsp; [Source](https://github.com/jstrifas/Vehicle-Inventory-Price-Tool)
 
   60,000 independent car dealers in the US price their inventory by gut feel and what they paid for it at auction. The result: cars sitting on lots for 45, 60, 90 days while the same vehicle sells down the road for $1,500 less. The dealers who need pricing help the most are the least equipped to act on data — they are on the lot between customers, not in front of a computer.
