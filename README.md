@@ -17,7 +17,7 @@ That means every project here started with a question: can we solve this faster,
 
 ## 🚀 Featured Projects
 
-- **TelemetrySpend**- Observability cost calculator with tail-risk visibility 🟢 [![Live Demo](https://img.shields.io/badge/Live_Demo-0E7C61?style=flat-square)](https://telemetryspend-git-main-jstrifa-bits-projects.vercel.app/) &nbsp; [Source](https://telemetryspend-git-main-jstrifa-bits-projects.vercel.app/)
+- **TelemetrySpend**- Observability cost calculator with tail-risk visibility 🟢 [![Live Demo](https://img.shields.io/badge/Live_Demo-0E7C61?style=flat-square)](https://telemetryspend-git-main-jstrifa-bits-projects.vercel.app/) &nbsp; [Source](https://github.com/jstrifas/Telemetryspend)
 
 Every observability vendor has a cost calculator. Every one of them models "typical" bills. None of them model the tail risk — the "what if we ship this tag without thinking" number that motivates the scoping decision. Platform engineers add user_id to a metric on a Tuesday, and by Friday they've explained a $50K bill spike to their CFO. The cost isn't the mistake. The lack of visibility before the mistake is.
 
