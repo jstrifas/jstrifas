@@ -37,7 +37,7 @@ That means every project here started with a question: can we solve this faster,
 
   No public code — this was enterprise hospitality SaaS built with a distributed product and engineering team across three years.
 
-
+--
 
 ## 🚀 Featured Projects
 
